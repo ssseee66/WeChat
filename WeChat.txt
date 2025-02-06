@@ -1,0 +1,38 @@
+服务端中的可运行jar包目录中需创建一个file文件夹以及images文件夹
+数据库端口为3307，数据库名为 friend，用户名为 root，密码为 010905（jar包中的 数据库信息指定为这样，想设置别的需在源代码中更改并打包）
+数据库端口以及用户名更改在GetConnection.java文件中
+数据库名和数据库密码则在Server_Monitor_UserRequest.java文件中将
+Connection connection = GetConnection.connection("friend", "010905");中的两个参数分别改为自己的数据库名和数据库密码
+客户端程序编译由于使用了第三方包因此不能直接编译,需要添加 cp 参数 -cp "jar包/*"
+
+
+时间紧任务重刚学完Java SE还要学Spring框架因此好多代码上的瑕疵，比如数据库连接暴露的问题比较严重（急着将逻辑代码写好以及数据库信息多而杂我也眼花就老是忘记关闭连接connection），我也没精力去优化了太多了哈哈哈哈哈
+ljsjslksjsklsjjslsj
+ksjskslsjskljs
+ksskjskssl
+设计思路就是
+卡莎啦啦
+就开始看来是
+看哈时间
+
+
+老师孙老师
+算啦开始
+开始上课
+开始就开始
+开始就开始
+卡卡姐
+开始就开始
+看傻了
+空间设计kkkskskskskksksksksjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+kssssssssssss
+kssssssssssssssss
+skkkkkkkkkkkkkkk看手kssssssssss
+ejjjjjjjjjjjj
+lslsslsls
+skslss
+skssk
+sksks
+ksjsks
+ksjskslsslss
+sksls机k师

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 14.0.2 (Oracle Corporation)
+Main-Class: WeChat.WeChat
+Class-Path: lib/pinyin4j-2.5.0.jar
